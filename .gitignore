@@ -1,0 +1,13 @@
+# OS/Env junk
+.DS_Store
+.venv/
+
+# Airflow logs & temps (these change constantly!)
+airflow/logs/
+airflow/dags/__pycache__/
+airflow/*.pid
+airflow/airflow.cfg  # If you have secrets here
+
+# Other
+.env
+*.log
