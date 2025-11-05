@@ -1,0 +1,12 @@
+{"timestamp":"2025-11-05T00:16:41.439350Z","level":"info","event":"DAG bundles loaded: dags-folder, example_dags","logger":"airflow.dag_processing.bundles.manager.DagBundlesManager","filename":"manager.py","lineno":179}
+{"timestamp":"2025-11-05T00:16:41.440422Z","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/youtube_etl_dag.py","logger":"airflow.models.dagbag.DagBag","filename":"dagbag.py","lineno":593}
+{"timestamp":"2025-11-05T00:16:43.081209Z","level":"info","event":"file_cache is only supported with oauth2client<4.0.0","logger":"googleapiclient.discovery_cache","filename":"__init__.py","lineno":49}
+{"timestamp":"2025-11-05T00:16:43.171922Z","level":"info","event":"Task instance is in running state","logger":"task.stdout"}
+{"timestamp":"2025-11-05T00:16:43.172176Z","level":"info","event":" Previous state of the Task instance: TaskInstanceState.QUEUED","logger":"task.stdout"}
+{"timestamp":"2025-11-05T00:16:43.172314Z","level":"info","event":"Current task name:transform_comments","logger":"task.stdout"}
+{"timestamp":"2025-11-05T00:16:43.172441Z","level":"info","event":"Dag name:youtube_hk_finance_etl","logger":"task.stdout"}
+{"timestamp":"2025-11-05T00:16:43.713177Z","level":"info","event":"Processed sentiment for 7905 comments","logger":"task.stdout"}
+{"timestamp":"2025-11-05T00:16:43.969991Z","level":"info","event":"Done. Returned value was: None","logger":"airflow.task.operators.airflow.providers.standard.operators.python.PythonOperator","filename":"python.py","lineno":218}
+{"timestamp":"2025-11-05T00:16:44.007786Z","level":"info","event":"Task instance in success state","logger":"task.stdout"}
+{"timestamp":"2025-11-05T00:16:44.008125Z","level":"info","event":" Previous state of the Task instance: TaskInstanceState.RUNNING","logger":"task.stdout"}
+{"timestamp":"2025-11-05T00:16:44.008349Z","level":"info","event":"Task operator:<Task(PythonOperator): transform_comments>","logger":"task.stdout"}

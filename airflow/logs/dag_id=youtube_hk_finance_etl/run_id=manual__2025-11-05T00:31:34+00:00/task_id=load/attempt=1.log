@@ -1,0 +1,12 @@
+{"timestamp":"2025-11-05T00:44:03.711729Z","level":"info","event":"DAG bundles loaded: dags-folder, example_dags","logger":"airflow.dag_processing.bundles.manager.DagBundlesManager","filename":"manager.py","lineno":179}
+{"timestamp":"2025-11-05T00:44:03.713735Z","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/youtube_etl_dag.py","logger":"airflow.models.dagbag.DagBag","filename":"dagbag.py","lineno":593}
+{"timestamp":"2025-11-05T00:44:06.646167Z","level":"info","event":"file_cache is only supported with oauth2client<4.0.0","logger":"googleapiclient.discovery_cache","filename":"__init__.py","lineno":49}
+{"timestamp":"2025-11-05T00:44:06.768194Z","level":"info","event":"Task instance is in running state","logger":"task.stdout"}
+{"timestamp":"2025-11-05T00:44:06.770334Z","level":"info","event":" Previous state of the Task instance: TaskInstanceState.QUEUED","logger":"task.stdout"}
+{"timestamp":"2025-11-05T00:44:06.770509Z","level":"info","event":"Current task name:load","logger":"task.stdout"}
+{"timestamp":"2025-11-05T00:44:06.770600Z","level":"info","event":"Dag name:youtube_hk_finance_etl","logger":"task.stdout"}
+{"timestamp":"2025-11-05T00:44:06.776384Z","level":"info","event":"Connected to social_media_db successfully","logger":"task.stdout"}
+{"timestamp":"2025-11-05T00:44:08.268232Z","level":"info","event":"Upserted 6 channels","logger":"task.stdout"}
+{"timestamp":"2025-11-05T00:44:08.277868Z","level":"info","event":"Found 3288 fetched videos; 337 existing; 2951 new","logger":"task.stdout"}
+{"timestamp":"2025-11-05T00:44:10.798338Z","level":"info","event":"Appended 2951 new videos","logger":"task.stdout"}
+{"timestamp":"2025-11-05T00:44:10.972788Z","level":"info","event":"Found 21967 fetched comments; 7905 existing; 14062 new","logger":"task.stdout"}

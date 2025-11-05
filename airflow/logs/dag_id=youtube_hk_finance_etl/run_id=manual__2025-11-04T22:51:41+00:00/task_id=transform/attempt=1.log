@@ -1,0 +1,14 @@
+{"timestamp":"2025-11-04T22:54:03.292888Z","level":"info","event":"DAG bundles loaded: dags-folder, example_dags","logger":"airflow.dag_processing.bundles.manager.DagBundlesManager","filename":"manager.py","lineno":179}
+{"timestamp":"2025-11-04T22:54:03.303841Z","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/youtube_etl_dag.py","logger":"airflow.models.dagbag.DagBag","filename":"dagbag.py","lineno":593}
+{"timestamp":"2025-11-04T22:54:03.821844Z","level":"info","event":"file_cache is only supported with oauth2client<4.0.0","logger":"googleapiclient.discovery_cache","filename":"__init__.py","lineno":49}
+{"timestamp":"2025-11-04T22:54:03.890476Z","level":"warning","event":"The `airflow.operators.python.PythonOperator` attribute is deprecated. Please use `'airflow.providers.standard.operators.python.PythonOperator'`.","category":"DeprecatedImportWarning","filename":"/opt/airflow/dags/youtube_etl_dag.py","lineno":10,"logger":"py.warnings"}
+{"timestamp":"2025-11-04T22:54:04.523267Z","level":"info","event":"Task instance is in running state","logger":"task.stdout"}
+{"timestamp":"2025-11-04T22:54:04.529551Z","level":"info","event":" Previous state of the Task instance: TaskInstanceState.QUEUED","logger":"task.stdout"}
+{"timestamp":"2025-11-04T22:54:04.541750Z","level":"info","event":"Current task name:transform","logger":"task.stdout"}
+{"timestamp":"2025-11-04T22:54:04.542500Z","level":"info","event":"Dag name:youtube_hk_finance_etl","logger":"task.stdout"}
+{"timestamp":"2025-11-04T22:54:04.861156Z","level":"warning","event":"Passing literal json to 'read_json' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.","category":"FutureWarning","filename":"/opt/airflow/dags/youtube_etl_dag.py","lineno":197,"logger":"py.warnings"}
+{"timestamp":"2025-11-04T22:54:04.946599Z","level":"warning","event":"Passing literal json to 'read_json' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.","category":"FutureWarning","filename":"/opt/airflow/dags/youtube_etl_dag.py","lineno":198,"logger":"py.warnings"}
+{"timestamp":"2025-11-04T22:54:06.622370Z","level":"info","event":"Done. Returned value was: None","logger":"airflow.task.operators.airflow.providers.standard.operators.python.PythonOperator","filename":"python.py","lineno":218}
+{"timestamp":"2025-11-04T22:54:07.217555Z","level":"info","event":"Task instance in success state","logger":"task.stdout"}
+{"timestamp":"2025-11-04T22:54:07.224548Z","level":"info","event":" Previous state of the Task instance: TaskInstanceState.RUNNING","logger":"task.stdout"}
+{"timestamp":"2025-11-04T22:54:07.227281Z","level":"info","event":"Task operator:<Task(PythonOperator): transform>","logger":"task.stdout"}

@@ -1,0 +1,9 @@
+pandas
+numpy
+requests
+apache-airflow[google]
+psycopg2-binary
+google-api-python-client
+SQLAlchemy
+apache-airflow-providers-fab
+nltk
