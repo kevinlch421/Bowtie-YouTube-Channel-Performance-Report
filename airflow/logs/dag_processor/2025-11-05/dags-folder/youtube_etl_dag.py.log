@@ -2465,3 +2465,180 @@
 {"timestamp":"2025-11-05T20:02:25.747792Z","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/youtube_etl_dag.py","logger":"airflow.models.dagbag.DagBag","filename":"dagbag.py","lineno":593}
 {"timestamp":"2025-11-05T20:02:27.617308Z","level":"info","event":"file_cache is only supported with oauth2client<4.0.0","logger":"googleapiclient.discovery_cache","filename":"__init__.py","lineno":49}
 {"timestamp":"2025-11-05T20:02:58.267005Z","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/youtube_etl_dag.py","logger":"airflow.models.dagbag.DagBag","filename":"dagbag.py","lineno":593}
+{"timestamp":"2025-11-05T20:03:03.388953Z","level":"info","event":"file_cache is only supported with oauth2client<4.0.0","logger":"googleapiclient.discovery_cache","filename":"__init__.py","lineno":49}
+{"timestamp":"2025-11-05T20:03:34.131057Z","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/youtube_etl_dag.py","logger":"airflow.models.dagbag.DagBag","filename":"dagbag.py","lineno":593}
+{"timestamp":"2025-11-05T20:03:36.453381Z","level":"info","event":"file_cache is only supported with oauth2client<4.0.0","logger":"googleapiclient.discovery_cache","filename":"__init__.py","lineno":49}
+{"timestamp":"2025-11-05T20:04:06.716836Z","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/youtube_etl_dag.py","logger":"airflow.models.dagbag.DagBag","filename":"dagbag.py","lineno":593}
+{"timestamp":"2025-11-05T20:04:11.381654Z","level":"info","event":"file_cache is only supported with oauth2client<4.0.0","logger":"googleapiclient.discovery_cache","filename":"__init__.py","lineno":49}
+{"timestamp":"2025-11-05T20:04:42.384690Z","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/youtube_etl_dag.py","logger":"airflow.models.dagbag.DagBag","filename":"dagbag.py","lineno":593}
+{"timestamp":"2025-11-05T20:04:43.738002Z","level":"info","event":"file_cache is only supported with oauth2client<4.0.0","logger":"googleapiclient.discovery_cache","filename":"__init__.py","lineno":49}
+{"timestamp":"2025-11-05T20:05:14.307260Z","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/youtube_etl_dag.py","logger":"airflow.models.dagbag.DagBag","filename":"dagbag.py","lineno":593}
+{"timestamp":"2025-11-05T20:05:16.476419Z","level":"info","event":"file_cache is only supported with oauth2client<4.0.0","logger":"googleapiclient.discovery_cache","filename":"__init__.py","lineno":49}
+{"timestamp":"2025-11-05T20:05:47.459256Z","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/youtube_etl_dag.py","logger":"airflow.models.dagbag.DagBag","filename":"dagbag.py","lineno":593}
+{"timestamp":"2025-11-05T20:05:49.456938Z","level":"info","event":"file_cache is only supported with oauth2client<4.0.0","logger":"googleapiclient.discovery_cache","filename":"__init__.py","lineno":49}
+{"timestamp":"2025-11-05T20:06:21.298886Z","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/youtube_etl_dag.py","logger":"airflow.models.dagbag.DagBag","filename":"dagbag.py","lineno":593}
+{"timestamp":"2025-11-05T20:06:28.080305Z","level":"info","event":"file_cache is only supported with oauth2client<4.0.0","logger":"googleapiclient.discovery_cache","filename":"__init__.py","lineno":49}
+{"timestamp":"2025-11-05T20:06:58.445951Z","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/youtube_etl_dag.py","logger":"airflow.models.dagbag.DagBag","filename":"dagbag.py","lineno":593}
+{"timestamp":"2025-11-05T20:07:00.030020Z","level":"info","event":"file_cache is only supported with oauth2client<4.0.0","logger":"googleapiclient.discovery_cache","filename":"__init__.py","lineno":49}
+{"timestamp":"2025-11-05T20:07:33.440004Z","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/youtube_etl_dag.py","logger":"airflow.models.dagbag.DagBag","filename":"dagbag.py","lineno":593}
+{"timestamp":"2025-11-05T20:07:43.947611Z","level":"info","event":"file_cache is only supported with oauth2client<4.0.0","logger":"googleapiclient.discovery_cache","filename":"__init__.py","lineno":49}
+{"timestamp":"2025-11-05T20:08:14.237866Z","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/youtube_etl_dag.py","logger":"airflow.models.dagbag.DagBag","filename":"dagbag.py","lineno":593}
+{"timestamp":"2025-11-05T20:08:17.018260Z","level":"info","event":"file_cache is only supported with oauth2client<4.0.0","logger":"googleapiclient.discovery_cache","filename":"__init__.py","lineno":49}
+{"timestamp":"2025-11-05T20:08:48.481322Z","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/youtube_etl_dag.py","logger":"airflow.models.dagbag.DagBag","filename":"dagbag.py","lineno":593}
+{"timestamp":"2025-11-05T20:08:57.711355Z","level":"info","event":"file_cache is only supported with oauth2client<4.0.0","logger":"googleapiclient.discovery_cache","filename":"__init__.py","lineno":49}
+{"timestamp":"2025-11-05T20:09:28.046082Z","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/youtube_etl_dag.py","logger":"airflow.models.dagbag.DagBag","filename":"dagbag.py","lineno":593}
+{"timestamp":"2025-11-05T20:09:34.502907Z","level":"info","event":"file_cache is only supported with oauth2client<4.0.0","logger":"googleapiclient.discovery_cache","filename":"__init__.py","lineno":49}
+{"timestamp":"2025-11-05T20:10:05.504735Z","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/youtube_etl_dag.py","logger":"airflow.models.dagbag.DagBag","filename":"dagbag.py","lineno":593}
+{"timestamp":"2025-11-05T20:10:07.460649Z","level":"info","event":"file_cache is only supported with oauth2client<4.0.0","logger":"googleapiclient.discovery_cache","filename":"__init__.py","lineno":49}
+{"timestamp":"2025-11-05T20:10:38.087470Z","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/youtube_etl_dag.py","logger":"airflow.models.dagbag.DagBag","filename":"dagbag.py","lineno":593}
+{"timestamp":"2025-11-05T20:10:41.104471Z","level":"info","event":"file_cache is only supported with oauth2client<4.0.0","logger":"googleapiclient.discovery_cache","filename":"__init__.py","lineno":49}
+{"timestamp":"2025-11-05T20:11:11.848253Z","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/youtube_etl_dag.py","logger":"airflow.models.dagbag.DagBag","filename":"dagbag.py","lineno":593}
+{"timestamp":"2025-11-05T20:11:13.726591Z","level":"info","event":"file_cache is only supported with oauth2client<4.0.0","logger":"googleapiclient.discovery_cache","filename":"__init__.py","lineno":49}
+{"timestamp":"2025-11-05T20:11:44.174878Z","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/youtube_etl_dag.py","logger":"airflow.models.dagbag.DagBag","filename":"dagbag.py","lineno":593}
+{"timestamp":"2025-11-05T20:11:47.374382Z","level":"info","event":"file_cache is only supported with oauth2client<4.0.0","logger":"googleapiclient.discovery_cache","filename":"__init__.py","lineno":49}
+{"timestamp":"2025-11-05T20:12:19.522894Z","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/youtube_etl_dag.py","logger":"airflow.models.dagbag.DagBag","filename":"dagbag.py","lineno":593}
+{"timestamp":"2025-11-05T20:12:21.717456Z","level":"info","event":"file_cache is only supported with oauth2client<4.0.0","logger":"googleapiclient.discovery_cache","filename":"__init__.py","lineno":49}
+{"timestamp":"2025-11-05T20:12:51.850343Z","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/youtube_etl_dag.py","logger":"airflow.models.dagbag.DagBag","filename":"dagbag.py","lineno":593}
+{"timestamp":"2025-11-05T20:12:53.723406Z","level":"info","event":"file_cache is only supported with oauth2client<4.0.0","logger":"googleapiclient.discovery_cache","filename":"__init__.py","lineno":49}
+{"timestamp":"2025-11-05T20:13:25.741058Z","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/youtube_etl_dag.py","logger":"airflow.models.dagbag.DagBag","filename":"dagbag.py","lineno":593}
+{"timestamp":"2025-11-05T20:13:26.998898Z","level":"info","event":"file_cache is only supported with oauth2client<4.0.0","logger":"googleapiclient.discovery_cache","filename":"__init__.py","lineno":49}
+{"timestamp":"2025-11-05T20:13:57.879532Z","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/youtube_etl_dag.py","logger":"airflow.models.dagbag.DagBag","filename":"dagbag.py","lineno":593}
+{"timestamp":"2025-11-05T20:13:58.882783Z","level":"info","event":"file_cache is only supported with oauth2client<4.0.0","logger":"googleapiclient.discovery_cache","filename":"__init__.py","lineno":49}
+{"timestamp":"2025-11-05T20:14:29.952935Z","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/youtube_etl_dag.py","logger":"airflow.models.dagbag.DagBag","filename":"dagbag.py","lineno":593}
+{"timestamp":"2025-11-05T20:14:32.136671Z","level":"info","event":"file_cache is only supported with oauth2client<4.0.0","logger":"googleapiclient.discovery_cache","filename":"__init__.py","lineno":49}
+{"timestamp":"2025-11-05T20:15:02.664516Z","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/youtube_etl_dag.py","logger":"airflow.models.dagbag.DagBag","filename":"dagbag.py","lineno":593}
+{"timestamp":"2025-11-05T20:15:04.229428Z","level":"info","event":"file_cache is only supported with oauth2client<4.0.0","logger":"googleapiclient.discovery_cache","filename":"__init__.py","lineno":49}
+{"timestamp":"2025-11-05T20:15:34.602491Z","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/youtube_etl_dag.py","logger":"airflow.models.dagbag.DagBag","filename":"dagbag.py","lineno":593}
+{"timestamp":"2025-11-05T20:15:35.782505Z","level":"info","event":"file_cache is only supported with oauth2client<4.0.0","logger":"googleapiclient.discovery_cache","filename":"__init__.py","lineno":49}
+{"timestamp":"2025-11-05T20:16:06.770534Z","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/youtube_etl_dag.py","logger":"airflow.models.dagbag.DagBag","filename":"dagbag.py","lineno":593}
+{"timestamp":"2025-11-05T20:16:07.750438Z","level":"info","event":"file_cache is only supported with oauth2client<4.0.0","logger":"googleapiclient.discovery_cache","filename":"__init__.py","lineno":49}
+{"timestamp":"2025-11-05T20:16:38.314573Z","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/youtube_etl_dag.py","logger":"airflow.models.dagbag.DagBag","filename":"dagbag.py","lineno":593}
+{"timestamp":"2025-11-05T20:16:39.507428Z","level":"info","event":"file_cache is only supported with oauth2client<4.0.0","logger":"googleapiclient.discovery_cache","filename":"__init__.py","lineno":49}
+{"timestamp":"2025-11-05T20:17:10.604814Z","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/youtube_etl_dag.py","logger":"airflow.models.dagbag.DagBag","filename":"dagbag.py","lineno":593}
+{"timestamp":"2025-11-05T20:17:11.557711Z","level":"error","event":"[nltk_data] Error loading vader_lexicon: <urlopen error [Errno -2]","logger":"task.stderr"}
+{"timestamp":"2025-11-05T20:17:11.558164Z","level":"error","event":"[nltk_data]     Name or service not known>","logger":"task.stderr"}
+{"timestamp":"2025-11-05T20:17:11.562154Z","level":"info","event":"file_cache is only supported with oauth2client<4.0.0","logger":"googleapiclient.discovery_cache","filename":"__init__.py","lineno":49}
+{"timestamp":"2025-11-05T20:34:24.376494Z","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/youtube_etl_dag.py","logger":"airflow.models.dagbag.DagBag","filename":"dagbag.py","lineno":593}
+{"timestamp":"2025-11-05T20:34:29.669309Z","level":"error","event":"[nltk_data] Error loading vader_lexicon: <urlopen error [Errno -2]","logger":"task.stderr"}
+{"timestamp":"2025-11-05T20:34:29.673640Z","level":"error","event":"[nltk_data]     Name or service not known>","logger":"task.stderr"}
+{"timestamp":"2025-11-05T20:34:29.571561Z","level":"info","event":"file_cache is only supported with oauth2client<4.0.0","logger":"googleapiclient.discovery_cache","filename":"__init__.py","lineno":49}
+{"timestamp":"2025-11-05T21:46:34.131395Z","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/youtube_etl_dag.py","logger":"airflow.models.dagbag.DagBag","filename":"dagbag.py","lineno":593}
+{"timestamp":"2025-11-05T21:46:42.871236Z","level":"error","event":"[nltk_data] Error loading vader_lexicon: <urlopen error [Errno -2]","logger":"task.stderr"}
+{"timestamp":"2025-11-05T21:46:42.872714Z","level":"error","event":"[nltk_data]     Name or service not known>","logger":"task.stderr"}
+{"timestamp":"2025-11-05T21:46:42.805286Z","level":"info","event":"file_cache is only supported with oauth2client<4.0.0","logger":"googleapiclient.discovery_cache","filename":"__init__.py","lineno":49}
+{"timestamp":"2025-11-05T22:04:16.654101Z","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/youtube_etl_dag.py","logger":"airflow.models.dagbag.DagBag","filename":"dagbag.py","lineno":593}
+{"timestamp":"2025-11-05T22:04:30.585898Z","level":"error","event":"[nltk_data] Error loading vader_lexicon: <urlopen error [Errno -2]","logger":"task.stderr"}
+{"timestamp":"2025-11-05T22:04:30.592258Z","level":"error","event":"[nltk_data]     Name or service not known>","logger":"task.stderr"}
+{"timestamp":"2025-11-05T22:04:30.715968Z","level":"info","event":"file_cache is only supported with oauth2client<4.0.0","logger":"googleapiclient.discovery_cache","filename":"__init__.py","lineno":49}
+{"timestamp":"2025-11-05T22:05:05.034162Z","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/youtube_etl_dag.py","logger":"airflow.models.dagbag.DagBag","filename":"dagbag.py","lineno":593}
+{"timestamp":"2025-11-05T22:05:07.721206Z","level":"error","event":"[nltk_data] Error loading vader_lexicon: <urlopen error [Errno -2]","logger":"task.stderr"}
+{"timestamp":"2025-11-05T22:05:07.723163Z","level":"error","event":"[nltk_data]     Name or service not known>","logger":"task.stderr"}
+{"timestamp":"2025-11-05T22:05:07.732773Z","level":"info","event":"file_cache is only supported with oauth2client<4.0.0","logger":"googleapiclient.discovery_cache","filename":"__init__.py","lineno":49}
+{"timestamp":"2025-11-05T22:21:00.411366Z","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/youtube_etl_dag.py","logger":"airflow.models.dagbag.DagBag","filename":"dagbag.py","lineno":593}
+{"timestamp":"2025-11-05T22:21:03.329042Z","level":"error","event":"[nltk_data] Error loading vader_lexicon: <urlopen error [Errno -2]","logger":"task.stderr"}
+{"timestamp":"2025-11-05T22:21:03.329407Z","level":"error","event":"[nltk_data]     Name or service not known>","logger":"task.stderr"}
+{"timestamp":"2025-11-05T22:21:03.267749Z","level":"info","event":"file_cache is only supported with oauth2client<4.0.0","logger":"googleapiclient.discovery_cache","filename":"__init__.py","lineno":49}
+{"timestamp":"2025-11-05T22:21:34.075098Z","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/youtube_etl_dag.py","logger":"airflow.models.dagbag.DagBag","filename":"dagbag.py","lineno":593}
+{"timestamp":"2025-11-05T22:21:39.011426Z","level":"error","event":"[nltk_data] Error loading vader_lexicon: <urlopen error [Errno -2]","logger":"task.stderr"}
+{"timestamp":"2025-11-05T22:21:39.025097Z","level":"error","event":"[nltk_data]     Name or service not known>","logger":"task.stderr"}
+{"timestamp":"2025-11-05T22:21:38.771495Z","level":"info","event":"file_cache is only supported with oauth2client<4.0.0","logger":"googleapiclient.discovery_cache","filename":"__init__.py","lineno":49}
+{"timestamp":"2025-11-05T22:22:10.064615Z","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/youtube_etl_dag.py","logger":"airflow.models.dagbag.DagBag","filename":"dagbag.py","lineno":593}
+{"timestamp":"2025-11-05T22:22:25.924081Z","level":"error","event":"[nltk_data] Error loading vader_lexicon: <urlopen error [Errno -2]","logger":"task.stderr"}
+{"timestamp":"2025-11-05T22:22:25.926692Z","level":"error","event":"[nltk_data]     Name or service not known>","logger":"task.stderr"}
+{"timestamp":"2025-11-05T22:22:25.873088Z","level":"info","event":"file_cache is only supported with oauth2client<4.0.0","logger":"googleapiclient.discovery_cache","filename":"__init__.py","lineno":49}
+{"timestamp":"2025-11-05T22:22:56.735233Z","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/youtube_etl_dag.py","logger":"airflow.models.dagbag.DagBag","filename":"dagbag.py","lineno":593}
+{"timestamp":"2025-11-05T22:23:00.612006Z","level":"error","event":"[nltk_data] Error loading vader_lexicon: <urlopen error [Errno -2]","logger":"task.stderr"}
+{"timestamp":"2025-11-05T22:23:00.618376Z","level":"error","event":"[nltk_data]     Name or service not known>","logger":"task.stderr"}
+{"timestamp":"2025-11-05T22:23:00.655864Z","level":"info","event":"file_cache is only supported with oauth2client<4.0.0","logger":"googleapiclient.discovery_cache","filename":"__init__.py","lineno":49}
+{"timestamp":"2025-11-05T22:23:32.458536Z","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/youtube_etl_dag.py","logger":"airflow.models.dagbag.DagBag","filename":"dagbag.py","lineno":593}
+{"timestamp":"2025-11-05T22:23:35.842252Z","level":"error","event":"[nltk_data] Error loading vader_lexicon: <urlopen error [Errno -2]","logger":"task.stderr"}
+{"timestamp":"2025-11-05T22:23:35.844994Z","level":"error","event":"[nltk_data]     Name or service not known>","logger":"task.stderr"}
+{"timestamp":"2025-11-05T22:23:35.848442Z","level":"info","event":"file_cache is only supported with oauth2client<4.0.0","logger":"googleapiclient.discovery_cache","filename":"__init__.py","lineno":49}
+{"timestamp":"2025-11-05T22:24:07.067642Z","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/youtube_etl_dag.py","logger":"airflow.models.dagbag.DagBag","filename":"dagbag.py","lineno":593}
+{"timestamp":"2025-11-05T22:24:14.640579Z","level":"error","event":"[nltk_data] Error loading vader_lexicon: <urlopen error [Errno -2]","logger":"task.stderr"}
+{"timestamp":"2025-11-05T22:24:14.641495Z","level":"error","event":"[nltk_data]     Name or service not known>","logger":"task.stderr"}
+{"timestamp":"2025-11-05T22:24:14.649297Z","level":"info","event":"file_cache is only supported with oauth2client<4.0.0","logger":"googleapiclient.discovery_cache","filename":"__init__.py","lineno":49}
+{"timestamp":"2025-11-05T22:24:45.229988Z","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/youtube_etl_dag.py","logger":"airflow.models.dagbag.DagBag","filename":"dagbag.py","lineno":593}
+{"timestamp":"2025-11-05T22:24:51.512660Z","level":"error","event":"[nltk_data] Error loading vader_lexicon: <urlopen error [Errno -2]","logger":"task.stderr"}
+{"timestamp":"2025-11-05T22:24:51.513592Z","level":"error","event":"[nltk_data]     Name or service not known>","logger":"task.stderr"}
+{"timestamp":"2025-11-05T22:24:51.475338Z","level":"info","event":"file_cache is only supported with oauth2client<4.0.0","logger":"googleapiclient.discovery_cache","filename":"__init__.py","lineno":49}
+{"timestamp":"2025-11-05T22:25:22.322924Z","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/youtube_etl_dag.py","logger":"airflow.models.dagbag.DagBag","filename":"dagbag.py","lineno":593}
+{"timestamp":"2025-11-05T22:25:31.012840Z","level":"error","event":"[nltk_data] Error loading vader_lexicon: <urlopen error [Errno -2]","logger":"task.stderr"}
+{"timestamp":"2025-11-05T22:25:31.017365Z","level":"error","event":"[nltk_data]     Name or service not known>","logger":"task.stderr"}
+{"timestamp":"2025-11-05T22:25:31.024637Z","level":"info","event":"file_cache is only supported with oauth2client<4.0.0","logger":"googleapiclient.discovery_cache","filename":"__init__.py","lineno":49}
+{"timestamp":"2025-11-05T22:26:01.978757Z","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/youtube_etl_dag.py","logger":"airflow.models.dagbag.DagBag","filename":"dagbag.py","lineno":593}
+{"timestamp":"2025-11-05T22:26:16.091463Z","level":"error","event":"[nltk_data] Error loading vader_lexicon: <urlopen error [Errno -2]","logger":"task.stderr"}
+{"timestamp":"2025-11-05T22:26:16.095002Z","level":"error","event":"[nltk_data]     Name or service not known>","logger":"task.stderr"}
+{"timestamp":"2025-11-05T22:26:15.934353Z","level":"info","event":"file_cache is only supported with oauth2client<4.0.0","logger":"googleapiclient.discovery_cache","filename":"__init__.py","lineno":49}
+{"timestamp":"2025-11-05T22:26:46.701243Z","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/youtube_etl_dag.py","logger":"airflow.models.dagbag.DagBag","filename":"dagbag.py","lineno":593}
+{"timestamp":"2025-11-05T22:26:59.909461Z","level":"error","event":"[nltk_data] Error loading vader_lexicon: <urlopen error [Errno -2]","logger":"task.stderr"}
+{"timestamp":"2025-11-05T22:26:59.915559Z","level":"error","event":"[nltk_data]     Name or service not known>","logger":"task.stderr"}
+{"timestamp":"2025-11-05T22:26:59.958383Z","level":"info","event":"file_cache is only supported with oauth2client<4.0.0","logger":"googleapiclient.discovery_cache","filename":"__init__.py","lineno":49}
+{"timestamp":"2025-11-05T22:27:31.156081Z","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/youtube_etl_dag.py","logger":"airflow.models.dagbag.DagBag","filename":"dagbag.py","lineno":593}
+{"timestamp":"2025-11-05T22:27:42.356383Z","level":"error","event":"[nltk_data] Error loading vader_lexicon: <urlopen error [Errno -2]","logger":"task.stderr"}
+{"timestamp":"2025-11-05T22:27:42.358069Z","level":"error","event":"[nltk_data]     Name or service not known>","logger":"task.stderr"}
+{"timestamp":"2025-11-05T22:27:42.329339Z","level":"info","event":"file_cache is only supported with oauth2client<4.0.0","logger":"googleapiclient.discovery_cache","filename":"__init__.py","lineno":49}
+{"timestamp":"2025-11-05T22:28:12.873261Z","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/youtube_etl_dag.py","logger":"airflow.models.dagbag.DagBag","filename":"dagbag.py","lineno":593}
+{"timestamp":"2025-11-05T22:28:17.334856Z","level":"error","event":"[nltk_data] Error loading vader_lexicon: <urlopen error [Errno -2]","logger":"task.stderr"}
+{"timestamp":"2025-11-05T22:28:17.339185Z","level":"error","event":"[nltk_data]     Name or service not known>","logger":"task.stderr"}
+{"timestamp":"2025-11-05T22:28:17.356426Z","level":"info","event":"file_cache is only supported with oauth2client<4.0.0","logger":"googleapiclient.discovery_cache","filename":"__init__.py","lineno":49}
+{"timestamp":"2025-11-05T22:28:47.710604Z","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/youtube_etl_dag.py","logger":"airflow.models.dagbag.DagBag","filename":"dagbag.py","lineno":593}
+{"timestamp":"2025-11-05T22:28:49.489903Z","level":"error","event":"[nltk_data] Error loading vader_lexicon: <urlopen error [Errno -2]","logger":"task.stderr"}
+{"timestamp":"2025-11-05T22:28:49.499997Z","level":"error","event":"[nltk_data]     Name or service not known>","logger":"task.stderr"}
+{"timestamp":"2025-11-05T22:28:49.504714Z","level":"info","event":"file_cache is only supported with oauth2client<4.0.0","logger":"googleapiclient.discovery_cache","filename":"__init__.py","lineno":49}
+{"timestamp":"2025-11-05T22:44:07.903974Z","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/youtube_etl_dag.py","logger":"airflow.models.dagbag.DagBag","filename":"dagbag.py","lineno":593}
+{"timestamp":"2025-11-05T22:44:09.349790Z","level":"error","event":"[nltk_data] Error loading vader_lexicon: <urlopen error [Errno -2]","logger":"task.stderr"}
+{"timestamp":"2025-11-05T22:44:09.356641Z","level":"error","event":"[nltk_data]     Name or service not known>","logger":"task.stderr"}
+{"timestamp":"2025-11-05T22:44:09.360574Z","level":"info","event":"file_cache is only supported with oauth2client<4.0.0","logger":"googleapiclient.discovery_cache","filename":"__init__.py","lineno":49}
+{"timestamp":"2025-11-05T22:44:39.995432Z","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/youtube_etl_dag.py","logger":"airflow.models.dagbag.DagBag","filename":"dagbag.py","lineno":593}
+{"timestamp":"2025-11-05T22:44:42.814189Z","level":"error","event":"[nltk_data] Error loading vader_lexicon: <urlopen error [Errno -2]","logger":"task.stderr"}
+{"timestamp":"2025-11-05T22:44:42.815770Z","level":"error","event":"[nltk_data]     Name or service not known>","logger":"task.stderr"}
+{"timestamp":"2025-11-05T22:44:42.819478Z","level":"info","event":"file_cache is only supported with oauth2client<4.0.0","logger":"googleapiclient.discovery_cache","filename":"__init__.py","lineno":49}
+{"timestamp":"2025-11-05T23:01:25.184600Z","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/youtube_etl_dag.py","logger":"airflow.models.dagbag.DagBag","filename":"dagbag.py","lineno":593}
+{"timestamp":"2025-11-05T23:01:26.194783Z","level":"error","event":"[nltk_data] Error loading vader_lexicon: <urlopen error [Errno -2]","logger":"task.stderr"}
+{"timestamp":"2025-11-05T23:01:26.195037Z","level":"error","event":"[nltk_data]     Name or service not known>","logger":"task.stderr"}
+{"timestamp":"2025-11-05T23:01:26.159671Z","level":"info","event":"file_cache is only supported with oauth2client<4.0.0","logger":"googleapiclient.discovery_cache","filename":"__init__.py","lineno":49}
+{"timestamp":"2025-11-05T23:01:57.310683Z","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/youtube_etl_dag.py","logger":"airflow.models.dagbag.DagBag","filename":"dagbag.py","lineno":593}
+{"timestamp":"2025-11-05T23:01:59.455831Z","level":"error","event":"[nltk_data] Error loading vader_lexicon: <urlopen error [Errno -2]","logger":"task.stderr"}
+{"timestamp":"2025-11-05T23:01:59.457334Z","level":"error","event":"[nltk_data]     Name or service not known>","logger":"task.stderr"}
+{"timestamp":"2025-11-05T23:01:59.468443Z","level":"info","event":"file_cache is only supported with oauth2client<4.0.0","logger":"googleapiclient.discovery_cache","filename":"__init__.py","lineno":49}
+{"timestamp":"2025-11-05T23:17:49.216776Z","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/youtube_etl_dag.py","logger":"airflow.models.dagbag.DagBag","filename":"dagbag.py","lineno":593}
+{"timestamp":"2025-11-05T23:17:51.316979Z","level":"error","event":"[nltk_data] Error loading vader_lexicon: <urlopen error [Errno -2]","logger":"task.stderr"}
+{"timestamp":"2025-11-05T23:17:51.318100Z","level":"error","event":"[nltk_data]     Name or service not known>","logger":"task.stderr"}
+{"timestamp":"2025-11-05T23:17:51.317339Z","level":"info","event":"file_cache is only supported with oauth2client<4.0.0","logger":"googleapiclient.discovery_cache","filename":"__init__.py","lineno":49}
+{"timestamp":"2025-11-05T23:18:22.423001Z","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/youtube_etl_dag.py","logger":"airflow.models.dagbag.DagBag","filename":"dagbag.py","lineno":593}
+{"timestamp":"2025-11-05T23:18:24.005188Z","level":"error","event":"[nltk_data] Error loading vader_lexicon: <urlopen error [Errno -2]","logger":"task.stderr"}
+{"timestamp":"2025-11-05T23:18:24.006861Z","level":"error","event":"[nltk_data]     Name or service not known>","logger":"task.stderr"}
+{"timestamp":"2025-11-05T23:18:23.945358Z","level":"info","event":"file_cache is only supported with oauth2client<4.0.0","logger":"googleapiclient.discovery_cache","filename":"__init__.py","lineno":49}
+{"timestamp":"2025-11-05T23:18:54.413757Z","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/youtube_etl_dag.py","logger":"airflow.models.dagbag.DagBag","filename":"dagbag.py","lineno":593}
+{"timestamp":"2025-11-05T23:18:56.890588Z","level":"error","event":"[nltk_data] Error loading vader_lexicon: <urlopen error [Errno -2]","logger":"task.stderr"}
+{"timestamp":"2025-11-05T23:18:56.891256Z","level":"error","event":"[nltk_data]     Name or service not known>","logger":"task.stderr"}
+{"timestamp":"2025-11-05T23:18:56.804364Z","level":"info","event":"file_cache is only supported with oauth2client<4.0.0","logger":"googleapiclient.discovery_cache","filename":"__init__.py","lineno":49}
+{"timestamp":"2025-11-05T23:19:27.295161Z","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/youtube_etl_dag.py","logger":"airflow.models.dagbag.DagBag","filename":"dagbag.py","lineno":593}
+{"timestamp":"2025-11-05T23:19:29.630399Z","level":"error","event":"[nltk_data] Error loading vader_lexicon: <urlopen error [Errno -2]","logger":"task.stderr"}
+{"timestamp":"2025-11-05T23:19:29.631758Z","level":"error","event":"[nltk_data]     Name or service not known>","logger":"task.stderr"}
+{"timestamp":"2025-11-05T23:19:29.637247Z","level":"info","event":"file_cache is only supported with oauth2client<4.0.0","logger":"googleapiclient.discovery_cache","filename":"__init__.py","lineno":49}
+{"timestamp":"2025-11-05T23:36:55.284808Z","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/youtube_etl_dag.py","logger":"airflow.models.dagbag.DagBag","filename":"dagbag.py","lineno":593}
+{"timestamp":"2025-11-05T23:36:56.555752Z","level":"error","event":"[nltk_data] Error loading vader_lexicon: <urlopen error [Errno -2]","logger":"task.stderr"}
+{"timestamp":"2025-11-05T23:36:56.556894Z","level":"error","event":"[nltk_data]     Name or service not known>","logger":"task.stderr"}
+{"timestamp":"2025-11-05T23:36:56.543968Z","level":"info","event":"file_cache is only supported with oauth2client<4.0.0","logger":"googleapiclient.discovery_cache","filename":"__init__.py","lineno":49}
+{"timestamp":"2025-11-05T23:37:27.008449Z","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/youtube_etl_dag.py","logger":"airflow.models.dagbag.DagBag","filename":"dagbag.py","lineno":593}
+{"timestamp":"2025-11-05T23:37:28.445965Z","level":"error","event":"[nltk_data] Error loading vader_lexicon: <urlopen error [Errno -2]","logger":"task.stderr"}
+{"timestamp":"2025-11-05T23:37:28.446675Z","level":"error","event":"[nltk_data]     Name or service not known>","logger":"task.stderr"}
+{"timestamp":"2025-11-05T23:37:28.452770Z","level":"info","event":"file_cache is only supported with oauth2client<4.0.0","logger":"googleapiclient.discovery_cache","filename":"__init__.py","lineno":49}
+{"timestamp":"2025-11-05T23:37:59.287304Z","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/youtube_etl_dag.py","logger":"airflow.models.dagbag.DagBag","filename":"dagbag.py","lineno":593}
+{"timestamp":"2025-11-05T23:38:01.311770Z","level":"error","event":"[nltk_data] Error loading vader_lexicon: <urlopen error [Errno -2]","logger":"task.stderr"}
+{"timestamp":"2025-11-05T23:38:01.314167Z","level":"error","event":"[nltk_data]     Name or service not known>","logger":"task.stderr"}
+{"timestamp":"2025-11-05T23:38:01.266626Z","level":"info","event":"file_cache is only supported with oauth2client<4.0.0","logger":"googleapiclient.discovery_cache","filename":"__init__.py","lineno":49}
+{"timestamp":"2025-11-05T23:38:31.446713Z","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/youtube_etl_dag.py","logger":"airflow.models.dagbag.DagBag","filename":"dagbag.py","lineno":593}
+{"timestamp":"2025-11-05T23:38:32.506029Z","level":"error","event":"[nltk_data] Error loading vader_lexicon: <urlopen error [Errno -2]","logger":"task.stderr"}
+{"timestamp":"2025-11-05T23:38:32.508519Z","level":"error","event":"[nltk_data]     Name or service not known>","logger":"task.stderr"}
+{"timestamp":"2025-11-05T23:38:32.513874Z","level":"info","event":"file_cache is only supported with oauth2client<4.0.0","logger":"googleapiclient.discovery_cache","filename":"__init__.py","lineno":49}
+{"timestamp":"2025-11-05T23:47:33.362863Z","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/youtube_etl_dag.py","logger":"airflow.models.dagbag.DagBag","filename":"dagbag.py","lineno":593}
+{"timestamp":"2025-11-05T23:47:34.898352Z","level":"error","event":"[nltk_data] Error loading vader_lexicon: <urlopen error [Errno -2]","logger":"task.stderr"}
+{"timestamp":"2025-11-05T23:47:34.900026Z","level":"error","event":"[nltk_data]     Name or service not known>","logger":"task.stderr"}
+{"timestamp":"2025-11-05T23:47:34.908681Z","level":"info","event":"file_cache is only supported with oauth2client<4.0.0","logger":"googleapiclient.discovery_cache","filename":"__init__.py","lineno":49}
+{"timestamp":"2025-11-05T23:48:05.200778Z","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/youtube_etl_dag.py","logger":"airflow.models.dagbag.DagBag","filename":"dagbag.py","lineno":593}
+{"timestamp":"2025-11-05T23:48:06.503118Z","level":"error","event":"[nltk_data] Error loading vader_lexicon: <urlopen error [Errno -2]","logger":"task.stderr"}
+{"timestamp":"2025-11-05T23:48:06.503875Z","level":"error","event":"[nltk_data]     Name or service not known>","logger":"task.stderr"}
+{"timestamp":"2025-11-05T23:48:06.491737Z","level":"info","event":"file_cache is only supported with oauth2client<4.0.0","logger":"googleapiclient.discovery_cache","filename":"__init__.py","lineno":49}
