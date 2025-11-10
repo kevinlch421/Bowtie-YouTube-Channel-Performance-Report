@@ -1,5 +1,5 @@
 #!/bin/sh
-'''exec' "/Users/kevinleungch421/Documents/Profolio Project/Social-Media-ETL/.venv/bin/python3.12" "$0" "$@"
+'''exec' "/Users/kevinleungch421/Documents/Profolio Project/insurance-hk-youtube-report/.venv/bin/python3" "$0" "$@"
 ' '''
 # -*- coding: utf-8 -*-
 import re
