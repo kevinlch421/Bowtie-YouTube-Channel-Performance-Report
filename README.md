@@ -108,11 +108,16 @@ The database comprises three tables—channels, videos, and comments—totaling 
 </p>
 
 #### The Bowtie team made the wrong decision in focusing on serious health themes
-- Throughout the years, Bowtie has consistently produced content focused on serious health issues, often framed around **illness and risk**.
-    - The most frequent topic is **“Cancer” (癌症)**, appearing **17 times**.
-    - Within the top ten keywords, **“Lung Cancer” (肺癌)** appears **9 times**.
-    - Within the top ten keywords, **“Stomach Cancer” (胃癌)** appears **9 times.**
-- While the corrlation test indicated that Bowties have issue on allocating resource on making wrong topic
+- The correlation test indicated that Bowties have an issue in allocating resources to making wrong topic.
+- Throughout the years, Bowtie has made many videos with topics around health concerns, risk, and danger. Here is an example:
+<p align="center">
+<img width="850" height="250" alt="negative title example" src="https://github.com/user-attachments/assets/3f0cf2a8-66e5-40ed-a0d8-b0130cdf3a1d" />
+</p>
+
+- Based on the analysis of the title, we count the appearance of words, which is **too much** topic around health concerns
+   - The most frequent topic is **“Cancer” (癌症)**, appearing **17 times**.
+   - Within the top ten keywords, **“Lung Cancer” (肺癌)** appears **9 times**.
+   - Within the top ten keywords, **“Stomach Cancer” (胃癌)** appears **9 times.**
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/77777d9e-b4fe-4ac9-a29c-bf8e6b682211" alt="Keyword and Hashtag Analysis" width="900">
