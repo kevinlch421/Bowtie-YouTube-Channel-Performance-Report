@@ -84,12 +84,16 @@ The database comprises three tables—channels, videos, and comments—totaling 
 </p>
 
 #### The Bowtie team made the right decision for long-duration video
-- Bowtie has consistently focused on producing long-form content.
+- The correlation test indicated that Bowties is suitable for making long-duration videos.
+- Throughout the years, Bowtie has try make long and short videos.
+<p align="center">
+   <img width="850" height="250" alt="long and short example" src="https://github.com/user-attachments/assets/914576ed-47f6-468c-8ccd-5eccc923a29b" />
+</p>
+
+- Based on the analysis of the duration, Bowtie has consistently focused on producing long-form content, which is a **correct action**.
     - The average video length is 9.3 minutes, with 76% of videos longer than 10 minutes.
     - A long video is well-suited for in-depth information sharing and detailed discussion.
-- Despite More and more channels starting to create more short-form reels because they grab more attention, Bowtie should keep the pace is making long videos.
-- **However**, Bowtie long-duration video **fails** to reach a new audience (based on the **Negligible** impact on views).
-
+- But it still a double egde swore, long-duration video **fails** to reach a new audience (based on the **Negligible** impact on views).
 <p align="center">
   <img src="https://github.com/user-attachments/assets/f74411da-a643-493a-9b85-94e99489b418" alt="Video Duration Distribution" width="480">
 </p>
