@@ -41,80 +41,103 @@ The database comprises three tables—channels, videos, and comments—totaling 
 
 ### Upload Frequency and Engagement
 
-Bowtie’s publishing cadence evolved across three phases:
-- 2019–Feb 2024: Low-volume period with fewer than five videos per month.
-- Mar–Oct 2024: Aggressive period, peaking at 23 videos in a single month—likely intended to improve algorithmic visibility.
-- Nov 2024–present: A return to a balanced cadence of roughly 5–7 videos per month.
+#### Bowtie’s audience does not like the tight posting schedule
+
+- Suppose frequent uploads should strengthen audience connection and online exposure (Heta Dave, 2025), the effect can **vary** across different channels.
+- In our case, the correlation results show that higher upload frequency is hurting performance on the Bowtie YouTube channel.
+- During high-output months, Bowtie’s videos achieved, on average:
+    - **-13%** fewer views (r=-0.13)
+    - **-46%** fewer likes (r=-0.46)
+    - **-54%** fewer comments (r=-0.54)
+    - **-52%** fewer positive comments (r=-0.52)
+
+ <p align="center">
+  <img src="https://github.com/user-attachments/assets/80684652-aeec-4ddd-a787-fda7119d57b4" alt="Upload Frequency vs Engagement Metrics" width="860">
+</p>
+
+#### The Bowtie team made the wrong decision in 2019
+
+- all of a sudden on **March–October 2024**, Bowtie's posting pace turned **aggressive**, peaking at **23 videos in a single month**
+- During the aggressive period, the views and engagement are underperforming (shown on the above line chart).
+- To understand the reason why Bowtie’s audience does not like the tight posting schedule, it potentially because of 
+  - overexposure: make the viewer exhausted
+  - low-quality perception: view may think the channel rush the poor content and ignore what they really want to see.
+- Time move to **November 2024 until now**, the pace slowed to a consistent 5–7 videos monthly, but the stability is higher with views and engagement. 
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/89fac84e-039c-4d26-bdd1-a1b1216fd906" alt="Monthly Upload Schedule" width="800">
 </p>
 
-Correlation analysis indicates that higher upload frequency coincides with weaker per‑video performance during high-output months:
-- Views: −13% on average
-- Likes: −46% on average
-- Comments: −54% on average
-- Positive comments: −52% on average
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/80684652-aeec-4ddd-a787-fda7119d57b4" alt="Upload Frequency vs Engagement Metrics" width="860">
-</p>
-
-Recommendations:
-- Cap monthly uploads at approximately 6–9 high‑quality videos, with editorial review to ensure clarity of message, storytelling strength, and audience value.
-- Structure a steady cadence (e.g., two to three releases per week) to balance recency with audience bandwidth.
-- Monitor per‑video engagement and retention; if both decline as volume increases, prioritize quality over quantity.
-
-Note: Correlation does not establish causation; continue A/B testing cadence changes.
-
----
-
 ### Video Duration and Engagement
 
-Bowtie’s content skews long‑form: average length is 9.3 minutes, and roughly 76% of videos exceed 10 minutes. Long‑form supports depth and authority, but many channels increasingly rely on short‑form for reach.
+#### Bowtie’s audience does enjoy long videos
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/f74411da-a643-493a-9b85-94e99489b418" alt="Video Duration Distribution" width="480">
-</p>
-
-Engagement patterns by duration:
-- Positive correlation with likes (r = 0.61)
-- Positive correlation with comments (r = 0.68)
-- Negligible correlation with views (r = −0.045)
+- Suppose the Long content typically underperforms in algorithmic discovery due to lower completion rates (Smith & Davis, Journal of Digital Media Strategy, 2024). The effect can **vary** across different channels.
+- In our case, the correlation results show that longer videos enhance engagement on the Bowtie YouTube channel.
+- Longer videos receive, on average:
+    - **+61%** correlation with more likes (r=0.61)
+    - **+68%** correlation with more comments (r=0.68)
+    - **Negligible** impact on views (r=-0.045)
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/7f50d207-e240-4341-84b6-1f313e391da0" alt="Video Duration vs Engagement Metrics" width="900">
 </p>
 
-Recommendations:
-- Maintain long‑form content for depth and loyalty, but repurpose into 30–90 second highlights for Shorts and social to drive discovery and funnel new audiences to full videos.
-- Use clear chaptering, strong hooks in the first 15–30 seconds, and visual pacing to support retention.
-- Track completion rates and average view duration; iterate on intros and segment lengths to improve watch‑through.
+#### The Bowtie team made the right decision for long-duration video
+- Bowtie has consistently focused on producing long-form content.
+    - The average video length is 9.3 minutes, with 76% of videos longer than 10 minutes.
+    - A long video is well-suited for in-depth information sharing and detailed discussion.
+- Despite More and more channels starting to create more short-form reels because they grab more attention, Bowtie should keep the pace is making long videos.
+- **However**, Bowtie long-duration video **fails** to reach a new audience (based on the **Negligible** impact on views).
 
----
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/f74411da-a643-493a-9b85-94e99489b418" alt="Video Duration Distribution" width="480">
+</p>
 
 ### Video Topics and Engagement
 
-Content frequently centers on serious health themes (e.g., cancer, lung cancer, stomach cancer). While threat‑based framing can attract initial attention, analysis shows limited downstream benefit:
-- Slight positive correlation with views (r ≈ 0.115)
-- No material lift in likes, comments, or positive sentiment
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/77777d9e-b4fe-4ac9-a29c-bf8e6b682211" alt="Keyword and Hashtag Analysis" width="900">
-</p>
+#### Bowtie’s audience is neutral to negative topics (e.g. serious health themes)
+- Suppose threat‑based content may briefly capture attention. According to Keller & Lehmann, emotionally negative framing can trigger a natural human response to seek information and solutions to mitigate potential harm (Journal of Health Communication, 2023).
+- In our case, it suggests no meaningful benefit from heavily negative themes.
+   - Negative tone shows only a **slight positive correlation with views (r = 0.115)**.
+   - It shows **no significant link** to likes, comments, or positive audience sentiment.
+- This means that while threat‑based content may briefly capture attention, it does **not** translate into sustained engagement or a stronger community connection. Excessive focus on fear messaging risks diminishing Bowtie’s relatable and trustworthy brand image.
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/b879f2d7-6a4e-4297-b871-1216ac5998fb" alt="Title Sentiment vs Engagement" width="900">
 </p>
 
-Recommendations:
+#### The Bowtie team made the wrong decision in focusing on serious health themes
+- Throughout the years, Bowtie has consistently produced content focused on serious health issues, often framed around **illness and risk**.
+    - The most frequent topic is **“Cancer” (癌症)**, appearing **17 times**.
+    - Within the top ten keywords, **“Lung Cancer” (肺癌)** appears **9 times**.
+    - Within the top ten keywords, **“Stomach Cancer” (胃癌)** appears **9 times.**
+- While the corrlation test indicated that Bowties have issue on allocating resource on making wrong topic
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/77777d9e-b4fe-4ac9-a29c-bf8e6b682211" alt="Keyword and Hashtag Analysis" width="900">
+</p>
+
+## Recommendations
+
+Recommendations 1:
+- Cap monthly uploads at approximately 6–9 high‑quality videos, with editorial review to ensure clarity of message, storytelling strength, and audience value.
+- Structure a steady cadence (e.g., two to three releases per week) to balance recency with audience bandwidth.
+- Monitor per‑video engagement and retention; if both decline as volume increases, prioritize quality over quantity.
+
+Recommendations 2:
+- Maintain long‑form content for depth and loyalty, but repurpose into 30–90 second highlights for Shorts and social to drive discovery and funnel new audiences to full videos.
+- Use clear chaptering, strong hooks in the first 15–30 seconds, and visual pacing to support retention.
+- Track completion rates and average view duration; iterate on intros and segment lengths to improve watch‑through.
+
+Recommendations 3:
 - Shift from fear‑based messaging to solution‑oriented, lifestyle‑driven narratives (prevention, practical wellness, financial literacy for health planning).
 - Collaborate with creators who resonate with Bowtie’s target demographic (e.g., mid‑career professionals, young families) and share relatable experiences.
 - Balance content pillars:  
   1) Educational deep dives (long‑form)  
   2) Practical tips and explainers (mid‑form)  
   3) Short highlights and FAQs (short‑form)
-
+  
 ## Conclusion
 
 Bowtie’s YouTube presence is sizable and consistent, but engagement efficiency declines when posting volume rises too quickly, and fear‑centric topics deliver limited community value. A strategy focused on a steady cadence, multi‑format distribution (long‑form depth plus short‑form reach), and solution‑oriented storytelling is likely to improve engagement quality, audience retention, and brand affinity over time.
