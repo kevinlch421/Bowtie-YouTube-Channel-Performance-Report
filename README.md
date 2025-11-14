@@ -2,7 +2,7 @@
 
 # Bowtie YouTube Channel Performance Report
 
-> For more of my projects and data journey, visit my [Notion](https://www.notion.so/Insurance-Hong-Kong-YouTube-Report-Resources-2a3e1e052cfc80e58fcdd55775bf2ba0)
+> For more of the steps in creating this repo, visit my [Notion](https://www.notion.so/Insurance-Hong-Kong-YouTube-Report-Resources-2a3e1e052cfc80e58fcdd55775bf2ba0)
 
 ## Table of Contents
 1. [Project Background](#project-background)
@@ -29,7 +29,8 @@ To improve, it is suggested that Bowtie should ${\color{green}\textbf{AVOID}}$ o
 
 ## Dataset Structure and ERD (Entity Relationship Diagram)
 
-The database comprises three tables—channels, videos, and comments—totaling more than 32,000 records. Data is extracted via the YouTube API and loaded into Postgres by a daily Airflow job running in Docker.
+The database comprises three tables—channels, videos, and comments—totaling more than 32,000 records. Data is extracted via the YouTube API and loaded into Postgres by a daily Airflow job running in Docker. 
+> In case you care about the data type and describtion, visit: [Database Structure and SQL](https://www.notion.so/Database-Structure-and-SQL-2abe1e052cfc8013b5c4d2af9daabed9?source=copy_link)
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/c00c99ee-1d5a-4d54-bbc6-6517da7d8363" alt="Database ERD Diagram" width="520">
