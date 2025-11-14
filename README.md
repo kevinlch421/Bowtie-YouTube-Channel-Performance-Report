@@ -85,7 +85,7 @@ The database comprises three tables—channels, videos, and comments—totaling 
 
 #### The Bowtie team made the right decision for long-duration video
 - The correlation test indicated that Bowties is suitable for making long-duration videos.
-- Throughout the years, Bowtie has try make long and short videos.
+- Throughout the years, Bowtie has tried to make long and short videos; here is how they look alike:
 <p align="center">
    <img width="850" height="250" alt="long and short example" src="https://github.com/user-attachments/assets/914576ed-47f6-468c-8ccd-5eccc923a29b" />
 </p>
@@ -93,7 +93,7 @@ The database comprises three tables—channels, videos, and comments—totaling 
 - Based on the analysis of the duration, Bowtie has consistently focused on producing long-form content, which is a **correct action**.
     - The average video length is 9.3 minutes, with 76% of videos longer than 10 minutes.
     - A long video is well-suited for in-depth information sharing and detailed discussion.
-- But it still a double egde swore, long-duration video **fails** to reach a new audience (based on the **Negligible** impact on views).
+- But it's still a double-edged sword, long-duration video **fails** to reach a new audience (based on the **Negligible** impact on views).
 <p align="center">
   <img src="https://github.com/user-attachments/assets/f74411da-a643-493a-9b85-94e99489b418" alt="Video Duration Distribution" width="480">
 </p>
@@ -113,9 +113,11 @@ The database comprises three tables—channels, videos, and comments—totaling 
 
 #### The Bowtie team made the wrong decision in focusing on serious health themes
 - The correlation test indicated that Bowties have an issue in allocating resources to making wrong topic.
-- Throughout the years, Bowtie has made many videos with topics around health concerns, risk, and danger. Here is an example:
+- Throughout the years, Bowtie has made many videos with topics around health concerns, risk, and danger.
+- Here is an example:
+  
 <p align="center">
-<img width="850" height="250" alt="negative title example" src="https://github.com/user-attachments/assets/3f0cf2a8-66e5-40ed-a0d8-b0130cdf3a1d" />
+<img width="850" height="250" alt="negative title example v2" src="https://github.com/user-attachments/assets/0ca953da-a1ea-40c8-808e-3139ee236c28" />
 </p>
 
 - Based on the analysis of the title, we count the appearance of words, which is **too much** topic around health concerns
@@ -128,24 +130,30 @@ The database comprises three tables—channels, videos, and comments—totaling 
 </p>
 
 ## Recommendations
+ 
+#### Avoid Over-Posting: Build Strong Management
+- Over-posting often stems from skipping quality checks. This happens a lot in teams without clear leaders.
+- To fix it, **assign a manager** whose job includes:
+   - Reviewing each video for quality.
+   - Tracking engagement and watch time per video.
+   - Capping uploads at **6–9** top-notch videos per month.
+   - Adding an editorial check to confirm clear messages, strong stories, and real value for viewers.
 
-Recommendations 1:
-- Cap monthly uploads at approximately 6–9 high‑quality videos, with editorial review to ensure clarity of message, storytelling strength, and audience value.
-- Structure a steady cadence (e.g., two to three releases per week) to balance recency with audience bandwidth.
-- Monitor per‑video engagement and retention; if both decline as volume increases, prioritize quality over quantity.
+#### Keep Long Videos but Add Short Clips
+- Stick with in-depth videos to build trust and keep fans loyal.
+- But cut them into 30–90 second highlights for Shorts and social media.
+- This draws in new people and leads them to the full videos. Your team should:
+   - Add clear chapters, **grabby hooks in the first 15–30 seconds**, and lively visuals to hold attention.
+   - Watch completion rates and average view time. **Tweak intros** and section lengths to boost full watches.
 
-Recommendations 2:
-- Maintain long‑form content for depth and loyalty, but repurpose into 30–90 second highlights for Shorts and social to drive discovery and funnel new audiences to full videos.
-- Use clear chaptering, strong hooks in the first 15–30 seconds, and visual pacing to support retention.
-- Track completion rates and average view duration; iterate on intros and segment lengths to improve watch‑through.
-
-Recommendations 3:
-- Shift from fear‑based messaging to solution‑oriented, lifestyle‑driven narratives (prevention, practical wellness, financial literacy for health planning).
-- Collaborate with creators who resonate with Bowtie’s target demographic (e.g., mid‑career professionals, young families) and share relatable experiences.
-- Balance content pillars:  
-  1) Educational deep dives (long‑form)  
-  2) Practical tips and explainers (mid‑form)  
-  3) Short highlights and FAQs (short‑form)
+#### Go for Varied Topics, Not Just Health Worries
+- Move away from scary messages. Focus on helpful stories about prevention, everyday wellness, and money smarts for health plans.
+- Try **fresh ideas** like vlogs.
+- Team up with **other channels** just for fun and reach—no hard sell.
+- For example, link with creators who fit your crowd:
+   - Mid-career workers.
+   - Young parents.
+   - Finance-focused channels.
   
 ## Conclusion
 
@@ -154,7 +162,7 @@ Bowtie’s YouTube presence is sizable and consistent, but engagement efficiency
 ## Credits
 
 This project was made possible with the help of the following resources and tutorials:
-- YouTube API: Corey Schafer (https://www.youtube.com/watch?v=th5_9woFJmk) and Thu Vu Data Analytics (https://www.youtube.com/watch?v=D56_Cx36oGY). Channel ID finder: https://ytlarge.com/channel-id-finder/channel/UCD5Lx-3KCYZzCzGF2A60STg
-- draw.io: Dr. Daniel Soper (https://www.youtube.com/watch?v=lAtCySGDD48)
-- VS Code environment setup: NeuralNine (https://www.youtube.com/watch?v=8dlQ_nDE7dQ)
-- Docker: Getting started guide (https://docs.docker.com/get-started/workshop/02_our_app/), “Understanding Dockerfile vs Docker Image vs Docker Container” (https://www.youtube.com/watch?v=8nTTACPIISU), and “Data Engineering Course for Beginners” (https://www.youtube.com/watch?v=PHsC_t0j1dU)
+- YouTube API: [Corey Schafer](https://www.youtube.com/watch?v=th5_9woFJmk) and [Thu Vu Data Analytics](https://www.youtube.com/watch?v=D56_Cx36oGY). [Channel ID finder](https://ytlarge.com/channel-id-finder/channel/UCD5Lx-3KCYZzCzGF2A60STg)
+- draw.io: [Dr. Daniel Soper](https://www.youtube.com/watch?v=lAtCySGDD48)
+- VS Code environment setup: [NeuralNine](https://www.youtube.com/watch?v=8dlQ_nDE7dQ)
+- Docker: [Getting started guide](https://docs.docker.com/get-started/workshop/02_our_app/), [“Understanding Dockerfile vs Docker Image vs Docker Container”](https://www.youtube.com/watch?v=8nTTACPIISU), and [“Data Engineering Course for Beginners”](https://www.youtube.com/watch?v=PHsC_t0j1dU)
