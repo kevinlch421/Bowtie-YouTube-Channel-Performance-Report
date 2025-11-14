@@ -57,11 +57,11 @@ The database comprises three tables—channels, videos, and comments—totaling 
 
 #### The Bowtie team made the wrong decision in 2019
 
-- all of a sudden on **March–October 2024**, Bowtie's posting pace turned **aggressive**, peaking at **23 videos in a single month**
+- All of a sudden on **March–October 2024**, Bowtie's posting pace turned **aggressive**, peaking at **23 videos in a single month**
 - During the aggressive period, the views and engagement are underperforming (shown on the above line chart).
-- To understand the reason why Bowtie’s audience does not like the tight posting schedule, it potentially because of 
+- To understand the reason why Bowtie’s audience does not like the tight posting schedule, it is potentially because the channel is:
   - overexposure: make the viewer exhausted
-  - low-quality perception: view may think the channel rush the poor content and ignore what they really want to see.
+  - low-quality perception: viewers may think the channel rushes the poor content and ignore what they really want to see.
 - Time move to **November 2024 until now**, the pace slowed to a consistent 5–7 videos monthly, but the stability is higher with views and engagement. 
 
 <p align="center">
