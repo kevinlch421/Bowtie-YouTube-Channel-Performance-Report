@@ -1,6 +1,8 @@
+<img width="1792" height="576" alt="cover page v2" src="https://github.com/user-attachments/assets/dee3c222-9d98-46b5-87b0-c0f4738902fc" />
+
 # Bowtie YouTube Channel Performance Report
 
-> For more of my projects and data journey, visit my Notion: https://www.notion.so/Insurance-Hong-Kong-YouTube-Report-Resources-2a3e1e052cfc80e58fcdd55775bf2ba0
+> For more of my projects and data journey, visit my [Notion](https://www.notion.so/Insurance-Hong-Kong-YouTube-Report-Resources-2a3e1e052cfc80e58fcdd55775bf2ba0)
 
 ## Table of Contents
 1. [Project Background](#project-background)
@@ -12,30 +14,28 @@
    - [Video Topics and Engagement](#video-topics-and-engagement)
 5. [Conclusion](#conclusion)
 6. [Credits](#credits)
-
+   
 ## Project Background
 
-Bowtie is a Hong Kong–based insurance company founded in 2018. Its YouTube channel has developed strong visibility within the insurance market. Performance analysis indicates opportunities to refine the content strategy—specifically in upload frequency, video length, and topic selection—to improve engagement and audience retention.
+[Bowtie](https://www.bowtie.com.hk/?srsltid=AfmBOooFui_Fsgu9ZRfIuWgS0WEq-GXpLvGAPqopFiwyCXYYfjeqbdLo) is a Hong Kong–based insurance company founded in 2018. Its [YouTube channel](https://www.youtube.com/@Bowtiehongkong) has developed strong visibility within the insurance market. Performance analysis indicates opportunities to refine the content strategy—specifically in upload frequency, video length, and topic selection—to improve engagement and audience retention.
 
-This repository analyzes Bowtie’s YouTube strategy using public data from the YouTube API (channels, videos, and comments). A lightweight ETL pipeline (Docker + Airflow) ingests, cleans, and processes data daily at 00:00 into a PostgreSQL database. The report summarizes key insights and offers actionable recommendations.
+This repository analyzes Bowtie’s YouTube strategy using public data from the [YouTube API](https://developers.google.com/youtube/v3) (channels, videos, and comments). A simple ETL pipeline (Docker + Airflow) ingests, cleans, and processes data daily at 00:00 into a PostgreSQL database. The report summarizes key insights and offers actionable recommendations.
 
 ## Executive Summary
 
-Based on more than 32,000 channel records spanning 2019–2025, Bowtie demonstrates meaningful scale: approximately 86,000 subscribers, an average of around 155,000 views per video, and a consistent monthly publishing cadence. However, three improvement areas emerge:
+Based on more than 32,000 channel records spanning 2019–2025, Bowtie demonstrates meaningful scale: approximately 86,000 subscribers, an average of around 155,000 views per video, and a consistent monthly publishing schedule. However, three areas for improvement emerge. First, Bowtie is ${\color{red}\textbf{NOT}}$ suitable for posting too much; uploading videos too often can lead to -54% comments and -52% fewer positive comments. Second, producing long videos ${\color{green}\textbf{CAN}}$ +61% more likes and +68% more comments, but long video has ${\color{red}\textbf{NO}}$ relationship with views, indicating that long videos can ${\color{red}\textbf{NOT}}$ reach new audiences. Third, negative content such as health concerns commonly appears on the channel, but it has ${\color{red}\textbf{NO}}$ relationship with engagement or views. 
 
-- Publishing too frequently coincides with lower engagement. During high-output months, average views, likes, comments, and positive comments per video decline versus baseline months. While correlations do not imply causation, the pattern suggests diminishing returns from aggressive posting.
-- Longer videos generate stronger engagement from loyal viewers. Video length is positively correlated with likes and comments but shows negligible correlation with views, implying limited contribution to reach/discovery.
-- Topics framed around health fears show little benefit. Titles emphasizing negative or threat-based themes exhibit only a weak positive correlation with views and no meaningful lift in likes, comments, or positive sentiment, potentially eroding brand warmth and relatability.
+To improve, it is suggested that Bowtie should ${\color{green}\textbf{AVOID}}$ over-posting with under 6 videos per month, shift to creating  ${\color{green}\textbf{MORE}}$ diverse content, and try to ${\color{green}\textbf{CREATE}}$ highlights from those long videos to reach new viewers.
 
 ## Dataset Structure and ERD (Entity Relationship Diagram)
 
 The database comprises three tables—channels, videos, and comments—totaling more than 32,000 records. Data is extracted via the YouTube API and loaded into Postgres by a daily Airflow job running in Docker.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/c00c99ee-1d5a-4d54-bbc6-6517da7d8363" alt="Database ERD Diagram" width="720">
+  <img src="https://github.com/user-attachments/assets/c00c99ee-1d5a-4d54-bbc6-6517da7d8363" alt="Database ERD Diagram" width="520">
 </p>
 
-For details on the pipeline and data cleaning approach, see: https://www.notion.so/Create-the-Data-Pipeline-from-Scratch-252e1e052cfc80dd8077f6a7d1b9740d
+> In case you care about the data source and data cleaning, the data is sourced from the YouTube API. We also overcome the problem of manual updates of data using Apache Airflow and Docker. The application allows us to automatically extract, transform, and load data from multiple YouTube channels to our target Postgres database daily at 00:00. For details, see: [Step to Create the ETL Data Pipeline](https://www.notion.so/Create-the-Data-Pipeline-from-Scratch-252e1e052cfc80dd8077f6a7d1b9740d)
 
 ## Insights Deep-Dive
 
