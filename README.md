@@ -33,7 +33,7 @@ The database comprises three tables—channels, videos, and comments—totaling 
 > In case you care about the data type and describtion, visit: [Database Structure and SQL](https://www.notion.so/Database-Structure-and-SQL-2abe1e052cfc8013b5c4d2af9daabed9?source=copy_link)
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/c00c99ee-1d5a-4d54-bbc6-6517da7d8363" alt="Database ERD Diagram" width="520">
+  <img src="https://github.com/user-attachments/assets/3aea3ac9-7fe6-413e-80ae-102d90d48aa3" alt="EDR" width="520">
 </p>
 
 > In case you care about the data source and data cleaning, the data is sourced from the YouTube API. We also overcome the problem of manual updates of data using Apache Airflow and Docker. The application allows us to automatically extract, transform, and load data from multiple YouTube channels to our target Postgres database daily at 00:00. For details, see: [Step to Create the ETL Data Pipeline](https://www.notion.so/Create-the-Data-Pipeline-from-Scratch-252e1e052cfc80dd8077f6a7d1b9740d)
